@@ -1,0 +1,177 @@
+@media(max-width: 1199px){
+	.menu ul li a{
+		padding: 0 10px;
+	    letter-spacing: 0;
+	}
+
+	.body1{
+		padding-bottom: 200px;
+	}
+
+	.body1-txt h2{
+	    padding-top: 210px;
+		font-size: 50px;
+
+	}
+
+	.card{
+		margin-bottom: 20px;
+	}
+
+	.body3{
+		display: block;
+	}
+
+	.body3-img img{
+		margin: auto;
+	}
+
+	.body3-txt{
+		text-align: center;
+		margin-bottom: 20px;
+	    margin-top: 50px;
+
+	}
+
+	.body4{
+		display: block;
+	}
+
+	.body4 .body3-img {
+		margin: auto;
+		padding-bottom: 30px;
+	}
+
+	.body4 .body3-txt{
+		text-align: center;
+		margin-bottom: 20px;
+	    margin-top: 100px;
+
+	}
+
+	.form button{
+		right: 100px;
+	}
+
+	.title{
+		margin-top: 30px;
+	}
+
+	footer{
+		text-align: center;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+	}
+
+}
+
+
+@media(max-width: 991px){
+	.search{
+		display: none;
+	}
+
+	.menu{
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.form button{
+		right: 10px;
+	}
+
+	.body7-txt{
+		text-align: center;
+	}
+
+
+
+}
+
+@media(max-width: 767px){
+	.body1{
+		background-position: center;
+	}
+
+	.menu ul li a{
+		padding: 0 5px;
+	    font-size: 11px;
+
+	}
+
+	.body6{
+		background-position: center;
+	}
+
+	.form input{
+		width: 460px;
+	}
+
+	.form button{
+		right: -10px;
+	}
+
+	
+}
+
+
+@media(max-width: 575px){
+	.body2 button{
+	   padding: 27px 38px;
+
+	}
+
+	.body3 button{
+	   padding: 27px 38px;
+
+	}
+
+	.body4 button{
+	   padding: 27px 38px;
+
+	}
+
+	.body6{
+		background-position: left;
+	}
+
+
+	.cloud{
+		position: absolute;
+		top: -20px;
+	}
+
+	.body6-txt{
+		padding-top: 380px;
+		padding-bottom: 400px;
+		text-align: right;
+	}
+
+	.body6{
+		background-position: center;
+	}
+
+	.form input{
+		width: 250px;
+		display: block;
+	}
+
+	.form button{
+		font-size: 15px;
+		width: 120px;
+			
+	}
+
+	.foot-title p{
+		font-size: 
+	}
+
+	.cloud2{
+		position: absolute;
+		bottom: -30px;
+	}
+
+}
